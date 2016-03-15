@@ -1,0 +1,10 @@
+1-False
+2-1048576
+3-210
+4-2, 3
+5
+To test the convergence of coordinate descent, look at the size of the maximum step you take as you cycle through coordinates.
+6-1
+7-3
+
+1-sqft_living, grade

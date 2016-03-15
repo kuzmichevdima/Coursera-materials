@@ -1,0 +1,5 @@
+# Create a virtual environment named e.g. dato-env
+virtualenv dato-env
+
+# Activate the virtual environment
+source dato-env/bin/activate

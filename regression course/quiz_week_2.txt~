@@ -1,0 +1,12 @@
+1-y = w_0 * w_1 + log(w_1) * x
+2-true
+3-might
+4-They stay the same 
+5-An algorithm for minimizing/maximizing a function
+6-Estimate model parameters from data 
+7-If the step-size is too large gradient descent may not converge 
+If the step size is too small (but not zero) gradient descent may take a very long time to converge
+8-D=10
+n=50
+D^2*N=100*50=5000
+9-O(ND^2 + D^3)
