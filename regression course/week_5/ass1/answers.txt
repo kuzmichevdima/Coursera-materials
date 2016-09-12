@@ -1,0 +1,6 @@
+sqft_living, grade
+Between 0 and 100?
+15
+206 - wrong! 316? wrong. 264-wrong
+154
+sqft_living, bathrooms

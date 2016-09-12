@@ -1,0 +1,7 @@
+1-A dataset with two features whose observations are evenly scattered throughout the input space, A dataset with many observations
+2-Better copes with noise in the data
+3-Large bandwidth λ
+4-True
+5-False
+6-1 second
+7-5 features
