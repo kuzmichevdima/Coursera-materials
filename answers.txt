@@ -1,8 +1,0 @@
-1-3
-2-1,2
-3-1
-4-1, 2
-5-items purchased by many people
-6-
-7-0.33
-8-0.25
