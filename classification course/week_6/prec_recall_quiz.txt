@@ -1,0 +1,9 @@
+0.99
+True
+True
+3
+It is pessimistic
+Require higher confidence level for positive predictions
+Require higher confidence level for positive predictions - wrong Require lower confidence level for positive predictions
+Recall
+2.20

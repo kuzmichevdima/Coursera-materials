@@ -1,0 +1,10 @@
+True
+True
+False
+Decrease step size
+Increase step size
+180000
+2,4
+1
+Log likelihood of data improves monotonically.
+1540

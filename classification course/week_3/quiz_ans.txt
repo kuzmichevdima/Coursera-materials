@@ -1,0 +1,11 @@
+1-x3
+2-3
+3-0
+4-2
+5-0
+6-T2
+7-x2
+8-create a leaf that predicts the y value of all the data
+9-Too little information to guarantee anything
+10-True
+11-False

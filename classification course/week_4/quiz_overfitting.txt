@@ -1,0 +1,11 @@
+1-False
+2-True
+3-False
+4-Model complexity increases with depth.
+5-combat overfitting
+6-Stop when every possible split results in the same amount of error reduction
+7-except The test error of T2 <= the test error of T1
+8-0.25
+9-0.25
+10-0.25
+11-Stop early
